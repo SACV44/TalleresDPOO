@@ -1,0 +1,11 @@
+Ir al paquete:
+uniandes.dpoo.swing.interfaz.principal
+
+Abrir la clase:
+VentanaPrincipal.java
+
+Ejecutar la consola desde allí
+
+Botón “NUEVO RESTAURANTE”: abre la ventana para agregar uno nuevo.
+
+Botón “Ver todos”: abre la ventana del mapa con los restaurantes.
